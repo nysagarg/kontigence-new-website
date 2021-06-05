@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   height="149.19002"
+   width="149.2"
+   id="svg35"
+   version="1.1"
+   viewBox="0 0 149.2 149.19002">
+  <metadata
+     id="metadata39">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs9">
+    <style
+       id="style2">.cls-1{fill:url(#linear-gradient);}.cls-2{fill:#ededed;}</style>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="74.599998"
+       x2="149.2"
+       y1="74.599998"
+       id="linear-gradient">
+      <stop
+         id="stop4"
+         stop-color="#7784ff"
+         offset="0" />
+      <stop
+         id="stop6"
+         stop-color="#27348b"
+         offset="1" />
+    </linearGradient>
+  </defs>
+  <title
+     id="title11">Asset 3</title>
+  <g
+     transform="translate(4.2339081e-6)"
+     data-name="Layer 2"
+     id="Layer_2">
+    <g
+       data-name="Layer 1"
+       id="Layer_1-2">
+      <path
+         style="fill:url(#linear-gradient)"
+         id="path13"
+         d="m 149.2,74.6 a 74.59,74.59 0 0 1 -74.6,74.59 28.9,28.9 0 0 1 -23.06,-11.44 28.41,28.41 0 0 1 -4.48,-8.53 29,29 0 0 1 2.72,-24 29.06,29.06 0 0 1 3.84,-5 27,27 0 0 1 3.79,-3.36 28.24,28.24 0 0 1 2.07,3.13 28.94,28.94 0 0 1 1.52,25.85 c -0.1,0.25 -0.21,0.5 -0.34,0.75 a 7,7 0 0 0 0.73,-0.35 29,29 0 0 0 15.51,-31.65 44.4,44.4 0 0 0 4.15,-2.59 45.68,45.68 0 0 0 19.47,-37.45 45,45 0 0 0 -0.33,-5.47 44.9,44.9 0 0 0 -5.94,-0.39 45.7,45.7 0 0 0 -37.15,19 43.15,43.15 0 0 0 -2.7,4.22 29,29 0 0 0 -31.73,15.2 c -0.17,0.33 -0.33,0.66 -0.48,1 0.34,-0.17 0.69,-0.32 1,-0.46 A 29,29 0 0 1 48.74,89.29 26.5,26.5 0 0 1 52.27,91.7 28.23,28.23 0 0 1 48.51,96 27.39,27.39 0 0 1 44.39,99.15 29,29 0 0 1 19.58,102 28.39,28.39 0 0 1 11,97.3 28.89,28.89 0 0 1 0,74.6 a 74.6,74.6 0 0 1 149.2,0 z M 74,66.73 A 7.78,7.78 0 1 0 81.77,74.51 7.77,7.77 0 0 0 74,66.73 Z"
+         class="cls-1" />
+      <polygon
+         style="fill:#ededed"
+         id="polygon15"
+         points="118.95,106.27 117.76,101.3 121.65,97.97 116.55,97.56 114.59,92.83 112.62,97.56 107.52,97.97 111.41,101.3 110.22,106.27 114.59,103.6 "
+         class="cls-2" />
+      <polygon
+         style="fill:#ededed"
+         id="polygon17"
+         points="48.68,44.52 48.22,42.59 49.73,41.29 47.74,41.13 46.98,39.29 46.22,41.13 44.23,41.29 45.74,42.59 45.28,44.52 46.98,43.48 "
+         class="cls-2" />
+      <polygon
+         style="fill:#ededed"
+         id="polygon19"
+         points="137.57,79.83 137.11,77.9 138.62,76.6 136.64,76.45 135.87,74.61 135.11,76.45 133.13,76.6 134.64,77.9 134.18,79.83 135.87,78.8 "
+         class="cls-2" />
+      <polygon
+         style="fill:#ededed"
+         id="polygon21"
+         points="18.87,52.44 18.33,50.16 20.11,48.63 17.77,48.45 16.87,46.28 15.97,48.45 13.63,48.63 15.41,50.16 14.87,52.44 16.87,51.22 "
+         class="cls-2" />
+      <polygon
+         style="fill:#ededed"
+         id="polygon23"
+         points="83.81,42.37 83.27,40.09 85.05,38.57 82.71,38.38 81.81,36.21 80.91,38.38 78.57,38.57 80.35,40.09 79.81,42.37 81.81,41.15 "
+         class="cls-2" />
+      <polygon
+         style="fill:#ededed"
+         id="polygon25"
+         points="94.94,125.64 94.4,123.36 96.18,121.83 93.84,121.65 92.94,119.48 92.04,121.65 89.7,121.83 91.49,123.36 90.94,125.64 92.94,124.42 "
+         class="cls-2" />
+      <polygon
+         style="fill:#ededed"
+         id="polygon27"
+         points="73.93,8.88 73.39,6.6 75.17,5.08 72.83,4.89 71.93,2.72 71.03,4.89 68.69,5.08 70.48,6.6 69.93,8.88 71.93,7.66 "
+         class="cls-2" />
+      <polygon
+         style="fill:#ededed"
+         id="polygon29"
+         points="124.23,63.29 123.95,62.15 124.85,61.39 123.68,61.29 123.23,60.21 122.78,61.29 121.61,61.39 122.5,62.15 122.23,63.29 123.23,62.68 "
+         class="cls-2" />
+      <polygon
+         style="fill:#ededed"
+         id="polygon31"
+         points="113.72,33.13 113.34,31.54 114.59,30.48 112.96,30.35 112.33,28.84 111.7,30.35 110.07,30.48 111.31,31.54 110.93,33.13 112.33,32.28 "
+         class="cls-2" />
+    </g>
+  </g>
+</svg>

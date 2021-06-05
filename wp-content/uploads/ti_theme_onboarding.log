@@ -1,0 +1,23 @@
+[27/Apr/2020:12:49:18] (ℹ️): WordPress Instance Info:
+[27/Apr/2020:12:49:18] (ℹ️): Home URL : https://kontigence.com
+[27/Apr/2020:12:49:18] (ℹ️): Site URL : https://kontigence.com
+[27/Apr/2020:12:49:18] (ℹ️): WordPress Version : 5.4
+[27/Apr/2020:12:49:18] (ℹ️): Onboarding Version : 1.8.2
+[27/Apr/2020:12:49:18] (ℹ️): Multisite : No
+[27/Apr/2020:12:49:18] (ℹ️): Server Info : Apache/2.4.29 (Ubuntu)
+[27/Apr/2020:12:49:18] (ℹ️): PHP Version : 7.2.24-0ubuntu0.18.04.4
+[27/Apr/2020:12:49:18] (ℹ️): HTTPS : Yes
+[27/Apr/2020:12:49:18] (ℹ️): PHP Max Execution Time : 30
+[27/Apr/2020:12:49:18] (ℹ️): PHP Max Input Vars : 1000
+[27/Apr/2020:12:49:18] (ℹ️): Max Upload Size : 83886080
+[27/Apr/2020:12:49:18] (ℹ️): Plugins:
+[27/Apr/2020:12:49:18] (ℹ️): [PLUGIN] Starter Templates : v2.2.2 (Brainstorm Force)
+[27/Apr/2020:12:49:18] (ℹ️): [PLUGIN] Automatic Page Load Progress Bar : v1.0.0 (Arnaud TILBIAN)
+[27/Apr/2020:12:49:18] (ℹ️): [PLUGIN] Elementor : v2.9.8 (Elementor.com)
+[27/Apr/2020:12:49:18] (ℹ️): [PLUGIN] ElementsKit Lite : v1.5.2 (Wpmet)
+[27/Apr/2020:12:49:18] (ℹ️): [PLUGIN] Essential Addons for Elementor : v3.9.2 (WPDeveloper)
+[27/Apr/2020:12:49:18] (ℹ️): [PLUGIN] JetElements For Elementor : v2.2.13 (Crocoblock)
+[27/Apr/2020:12:49:18] (ℹ️): [PLUGIN] Neve Pro Addon : v1.1.10 (ThemeIsle)
+[27/Apr/2020:12:49:18] (ℹ️): [PLUGIN] Image optimization service by Optimole : v2.3.1 (Optimole)
+[27/Apr/2020:12:49:18] (ℹ️): [PLUGIN] Gutenberg Blocks and Template Library by Otter : v1.5.3 (ThemeIsle)
+[27/Apr/2020:12:49:18] (ℹ️): [PLUGIN] PowerPack Lite for Elementor : v1.2.9.3 (IdeaBox Creations)
